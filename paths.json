@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-eds-ue-started-site/:/",
+    "/content/aem-eds-ue-started-site/configuration:/.helix/config.json",
+    "/content/aem-eds-ue-started-site/metadata:/metadata.json"
   ]
 }
